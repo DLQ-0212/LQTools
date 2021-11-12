@@ -15,9 +15,9 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "LQTools"
+  spec.name         = "DDLQTools"
   spec.version      = "1.0.0"
-  spec.summary      = "A short description of LQTools."
+  spec.summary      = "A short description of DDLQTools."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
